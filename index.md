@@ -6,44 +6,54 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# CEE 412 / CET 522 
 Transportation Data Management and Visualization (Winter 2020)
 {: .fs-9 }
 
+## UW CEE 412 / CET 522 
+
+
+
 ---
+
 ## Time
 8:30 – 9:50 AM on Wednesday and Friday
 
 ## Classroom
-Lectures: MOR  220
+Lectures: MOR 220
 
 In-class exercises: MOR 001 (computer lab)
 
 ## Instructor 
 Zhiyong Cui
 
-Office: More Hall 101
-
-Office hours: 3:30 – 4:30 PM on Monday
-
-E-mail: [zhiyongc@uw.edu](mailto:zhiyongc@uw.edu)
-
-Website: [https://zhiyongcui.com](https://zhiyongcui.com)
+* Office: More Hall 101, Univeristy of Washington
+* Office hours: 3:30 – 4:30 PM on Monday
+* E-mail: [zhiyongc@uw.edu](mailto:zhiyongc@uw.edu)
+* Website: [https://zhiyongcui.com](https://zhiyongcui.com)
 
 ## Teaching Assistant
 Sam Ricord
 
-Office: More Hall 101
+* Office: More Hall 101, Univeristy of Washington
+* Office hours: 2:30 - 3:30 PM on Thursday
+* E-mail: [samuelsr@uw.edu](mailto:samuelsr@uw.edu)
 
-Office hours: 2:30 - 3:30 PM on Thursday
+Ziyuan Pu
 
-E-mail: [samuelsr@uw.edu](mailto:samuelsr@uw.edu)
+* Office: More Hall 101, Univeristy of Washington
+* E-mail: [ziyuanpu@uw.edu](mailto:ziyuanpu@uw.edu)
 
 --- 
 
 ## Description
 
 In recent years, traffic sensors have been intensively deployed in major highway systems across the country. These sensors generate tremendous traffic data that are extremely valuable for traffic management, travel demand forecasting, pavement design, and traffic control. How to manage the data efficiently and produce the most useful information out of them have been crucial challenges faced by transportation professionals.
+
+### Course Level: 
+Jointly offered for Undergraduates (**CEE 412**) and Graduates (**CET 522**)
+
+### Prerequisite 
+None
 
 ## Objective
 The objective is to introduce modern concepts, algorithms, and tools for transportation data management and analysis. With the instructions, assignments, and projects in this course, students are expected to learn database design theories; analytical methods for transportation safety analyses; and skills on popular software tools for transportation data management and visualization.
@@ -217,7 +227,7 @@ email, or any other method with the owners of this repository before making a ch
 
 #### Thank you to the contributors of Just the Docs!
 
--->
+
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -228,3 +238,4 @@ email, or any other method with the owners of this repository before making a ch
 </ul>
 
 
+-->
