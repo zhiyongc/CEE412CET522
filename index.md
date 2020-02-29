@@ -39,6 +39,8 @@ Office hours: 2:30 - 3:30 PM on Thursday
 
 E-mail: [samuelsr@uw.edu](mailto:samuelsr@uw.edu)
 
+--- 
+
 ## Description
 
 In recent years, traffic sensors have been intensively deployed in major highway systems across the country. These sensors generate tremendous traffic data that are extremely valuable for traffic management, travel demand forecasting, pavement design, and traffic control. How to manage the data efficiently and produce the most useful information out of them have been crucial challenges faced by transportation professionals.
@@ -48,8 +50,9 @@ The objective is to introduce modern concepts, algorithms, and tools for transpo
 
 Major topics of this course include: (1) database design and management; (2) data management and analysis tools (Excel, Microsoft SQL Server, etc.); (3) basic transportation data analysis methods; and (4) transportation data analysis and visualization tools  (R programming language, Shiny, etc.).
 
-## Course Scheduel
+--- 
 
+## Course Scheduel
 
 | Week | Date    | Topic                                                               | Notes                    |
 |------|---------|---------------------------------------------------------------------|--------------------------|
@@ -80,11 +83,15 @@ Major topics of this course include: (1) database design and management; (2) dat
 ## Expectations for Course Work 
 The work in this course consists of assigned readings, assignments, projects, and exams. All of them are designed to help you achieving the course learning objectives and should be completed as required.
 
+--- 
+
 ## Assigned Reading
 Readings will be assigned which correspond to lecture materials (please see the course schedule for details).  Though these assigned readings will not be directly evaluated, it will be greatly beneficial to complete reading them on time because they provide important information for you to understand the class contents and participate in class discussions. Also, assigned reading is covered in the tests.
 
 ## Assignments and Exercises
 There are four regular assignments.  Each assignment should be completed by each person in the class individually. As always with these types of problems, solution steps should be clearly shown with answers clearly denoted (e.g., box or underline the answer).  The solution to each assignment will be posted online after the assignment due date.  In class exercises will also be assigned, generally to be completed during the class time. While a grade is not assigned for these exercises, you must complete them during the week they are assigned in order to get credit.
+
+--- 
 
 ## Projects
 There are two projects in this course.  Each project is designed to aid skill development for a specific software application, and will be completed by a team of students. Each team will consist of two or three members.  At the end of the quarter, each team member will fill out a peer evaluation on all team members including himself/herself.  In this evaluation, students will be asked to divide up 100 points amongst all team members according to their contributions to the team.  An individual’s grade for team projects will be a product of the team’s overall project grades weighted by the individual’s contribution to the team.  Therefore, it is possible for an individual to score more than or less than his/her team’s project grade.
@@ -93,8 +100,12 @@ The final project will be evaluated by everyone in the class during the final pr
 
 A project report should be typed and submitted by each team just like a consulting firm submitting it to a client.  It should be written in clear English, contain the relevant answers and descriptions of the work done for the project, be relatively short (4-8 pages), and be backed up by additional pages of relevant equations, assumptions, etc.  Electronic files of a project should be submitted through Canvas.
 
+--- 
+
 ## Exams
 There are two midterm exams and no final exam. In each of the two exams, students will be allowed up to 2 pages of notes. Everyone should respect each other’s space and keep their books and notes within their own space.  Exam questions will be from the contents covered in lectures, assigned readings, assignments, or projects.
+
+--- 
 
 ## Course Policy
 
@@ -102,7 +113,11 @@ There are two midterm exams and no final exam. In each of the two exams, student
 You are expected to attend all lectures and computer labs scheduled for this course, though attendance is not required. Note that you are responsible for all of the material covered during class (content, policies, and scheduling), so if you plan to be absent you may want to ask a fellow student to share their notes.
 
 ### Late Homework Turn-ins
-You are required to turn in your homework (including both assignment and project) on time. Late homework is not acceptable except for special cases approved (prior to the due date) by the instructor.
+You are required to turn in your homework (including both assignment and project) on time. Late homework is normally not acceptable except for special cases approved (prior to the due date) by the instructor. 
+
+Late Policy: We will deduct 10% for every two days an assignment is late.
+
+--- 
 
 ## Final Grade Determination
 Your final grade will be determined by combining your scores of assignments, projects, and exams using the following weights:
@@ -111,6 +126,19 @@ Your final grade will be determined by combining your scores of assignments, pro
 * Midterm Exams: 30%
 * Projects: 40%
 
+--- 
+
+## Resources
+
+See the [resource]({{site.baseurl}}{% link docs/configuration.md %}) page for data management tools, visualization tools, datasets, and related websites.
+
+--- 
+
+## Q&A
+
+Questions should be posted on [Canvas](https://canvas.uw.edu/courses/1353510) or [Piazza](https://piazza.com/class/k4aoqf1xwnv2yc). If you have a private question, [email](mailto:zhiyongc@uw.edu) the instructors or come to office hours.
+
+<!-- 
 --- 
 
 This course introduces important concepts of database design and application. Transportation data management, analytical, and visualization tools are introduced and demonstrated based on traffic sensor data, roadway geometric data, traffic accident data, etc.
@@ -188,6 +216,8 @@ When contributing to this repository, please first discuss the change you wish t
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
 
 #### Thank you to the contributors of Just the Docs!
+
+-->
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}

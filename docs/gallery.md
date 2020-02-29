@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gallery
-nav_order: 2
+nav_order: 5
 ---
 
 # Configuration
