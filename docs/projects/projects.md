@@ -7,7 +7,6 @@ permalink: /docs/projects
 ---
 
 # Projects
-<!--
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
--->
+
+Please submit your project reports via [Canvas](https://canvas.uw.edu/courses/1353510)
+{: .fs-4 .fw-300 .text-grey-dk-000}

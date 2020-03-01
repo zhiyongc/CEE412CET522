@@ -8,6 +8,10 @@ permalink: /docs/assignments
 
 # Assignments & Exercises
 
+Please submit your Assignments via [Canvas](https://canvas.uw.edu/courses/1353510)
+{: .fs-4 .fw-300 .text-grey-dk-000}
+
+
 ## Assignments
 *	Assignment 1:
 	* <a href="{{ site.baseurl }}/Files/Assignment/Assignment_1.pdf"><i class='fa fa-file-pdf-o'></i> Assignment_1</a>
