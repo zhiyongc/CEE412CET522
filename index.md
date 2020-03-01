@@ -61,7 +61,7 @@ Major topics of this course include: (1) database design and management; (2) dat
 
 --- 
 
-## Course Scheduel
+## Course Schedule
 
 | Date             | Topic                                                              | Notes         | Assignments & Projects                               |
 |------------------|--------------------------------------------------------------------|---------------|------------------------------------------------------|
