@@ -24,7 +24,7 @@ It's our pleasure to invite two UW alumni from INRIX to give us two guest lectur
 	* Kristian Henrickson received his PhD in transportation engineering from the University of Washington in 2018, dissertation title “*A Framework for Understanding and Addressing Bias and Sparsity in Mobile Location-Based Traffic Data*”. He currently works as a data scientist in the Analytics group at INRIX in Kirkland Washington. Kristian’s research interests include data quality, traffic modeling, machine learning, and public engagement.
 	
 * **Mr. Mingjian Fu**
-	* <a href=""><i class='fa fa-youtube-play'></i> Lecture (coming soon)</a>
+	* <a href="https://youtu.be/ss3DZbMCI5I"><i class='fa fa-youtube-play'></i> Lecture (coming soon)</a>
 	* Mingjian Fu was a former member of UW starLab and received his master degree in transportation engineering from University of Washington in 2018. He works at INRIX Kirkland as a software development engineer, developing web applications for providing real-time traffic flow and incident data.
 	
 ---

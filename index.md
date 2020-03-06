@@ -82,7 +82,7 @@ Major topics of this course include: (1) database design and management; (2) dat
 | Feb. 26          | [Data Visualization](Files/Lectures/Lecture_9.pdf)                 |               | [P#2](Files/Projects/Final Project.pdf) Out           |
 | Feb. 28          | [Data Visualization in R & Shiny](Files/Lectures/Lecture_10.pdf)   |               |                                                      |
 | Mar. 4           | Data Visualization & Shiny Practice                                | Exercise #4   | A#4 Due                                               |
-| Mar. 6           | [Guest Lectures](docs/resources) - *Data Management & Visualization*             | Online Class  | [GL#1](https://www.youtube.com/watch?v=I7fMtBg64iw&feature=youtu.be), [GL#2]()       |
+| Mar. 6           | [Guest Lectures](docs/resources) - *Data Management & Visualization*             | Online Class  | [GL#1](https://www.youtube.com/watch?v=I7fMtBg64iw&feature=youtu.be), [GL#2](https://youtu.be/ss3DZbMCI5I)       |
 | Mar. 11          | Midterm 2                                                          |               |                                                      |
 | Mar. 13          | Shiny Practice                                                     | Exercise #4   |                                                      |
 | Mar. 17          | Final Project Presentations (8:30-10:20 AM)                        |               | P#2 Due                                               |
