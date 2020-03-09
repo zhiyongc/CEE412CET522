@@ -1,0 +1,12 @@
+name: publish
+title: publish
+username:
+account: zhiyongc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1912568
+bundleId: 2856226
+url: https://zhiyongc.shinyapps.io/publish/
+when: 1583478941.32866
+asMultiple: FALSE
+asStatic: FALSE
