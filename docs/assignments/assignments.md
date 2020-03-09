@@ -38,7 +38,7 @@ Please submit your Assignments via [Canvas](https://canvas.uw.edu/courses/135351
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 3 - R/Exercise III - R Part 1.pdf"><i class='fa fa-file-pdf-o'></i> Exercise III - R Part 1</a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 3 - R/Exercise III - R Part 2.pdf"><i class='fa fa-file-pdf-o'></i> Exercise III - R Part 2</a>
 *	Exercise 4:
-	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 1 - Build a Shiny App.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Part 1 - Build a Shiny App </a>
+	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 1 - Build a Shiny App.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 1 - Build a Shiny App </a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 2 - Shiny App Control.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 2 - Shiny App Control </a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 3 - Shiny App UI.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 3 - Shiny App UI </a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 4 - Connect to Database.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 4 - Connect to Database </a>
