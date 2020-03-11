@@ -42,10 +42,10 @@ Please submit your Assignments via [Canvas](https://canvas.uw.edu/courses/135351
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 2 - Shiny App Control.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 2 - Shiny App Control </a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 3 - Shiny App UI.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 3 - Shiny App UI </a>
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 4 - Connect to Database.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 4 - Connect to Database </a>
-	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Scripts.zip"><i class='fa fa-file-archive-o'></i> Exercise IV Demo Source Code </a>
+	* <a href="{{ site.url }}/Files/Exercises/Exercise 4 - Shiny/Scripts.zip"><i class='fa fa-file-archive-o'></i> Exercise IV Shiny Demo Source Code </a>
 *	Exercise 5:
 	* <a href="{{ site.url }}/Files/Exercises/Exercise 5 - Advanced Shiny/Exercise V - Part 1 - Deploy Shiny & RStudio Cloud.pdf"><i class='fa fa-file-pdf-o'></i> Exercise V - Part 1 - Deploy Shiny & RStudio Cloud </a>
-	* <a href="{{ site.url }}/Files/Exercises/Exercise 5 - Advanced Shiny/Scripts.zip"><i class='fa fa-file-archive-o'></i> Exercise V Demo Source Code </a>
+	* <a href="{{ site.url }}/Files/Exercises/Exercise 5 - Advanced Shiny/Scripts.zip"><i class='fa fa-file-archive-o'></i> Exercise V Shiny Demo Source Code </a>
 
 
 

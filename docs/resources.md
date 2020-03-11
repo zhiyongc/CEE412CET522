@@ -54,14 +54,14 @@ It's our pleasure to invite two UW alumni from INRIX to give us two guest lectur
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 3 - R/Exercise III - R Part 1.pdf"><i class='fa fa-file-pdf-o'></i> Exercise III - R Part 1</a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 3 - R/Exercise III - R Part 2.pdf"><i class='fa fa-file-pdf-o'></i> Exercise III - R Part 2</a>
 *	Exercise 4:
-	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 1 - Build a Shiny App.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Part 1 - Build a Shiny App </a>
+	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 1 - Build a Shiny App.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 1 - Build a Shiny App </a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 2 - Shiny App Control.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 2 - Shiny App Control </a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 3 - Shiny App UI.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 3 - Shiny App UI </a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 4 - Connect to Database.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 4 - Connect to Database </a>
-	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise IV Demo Source Code </a>
+	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise Shiny IV Demo Source Code </a>
 *	Exercise 5:
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Exercise V - Part 1 - Deploy Shiny & RStudio Cloud.pdf"><i class='fa fa-file-pdf-o'></i> Exercise V - Part 1 - Deploy Shiny & RStudio Cloud </a>
-	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise V Demo Source Code </a>
+	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise V Shiny Demo Source Code </a>
 
 ---
 
