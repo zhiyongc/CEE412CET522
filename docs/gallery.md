@@ -19,6 +19,6 @@ Final Projects of students.
 
 ---
 
-### Instructors' Demo
+### Instructor's Demo
 
 <iframe id="example1" src="https://zhiyongc.shinyapps.io/sqlserver/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>

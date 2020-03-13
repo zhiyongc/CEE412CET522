@@ -29,7 +29,15 @@ It's our pleasure to invite two UW alumni from INRIX to give us two guest lectur
 
 ---
 
+## Projects
+*	<a href="{{ site.baseurl }}/Files/Resources/Introduction to Final Project and Presentation.pdf"><i class='fa fa-file-pdf-o'></i> Introduction to Final Project and Presentation </a>
+
+---
+
 ## Assignments
+Please submit your Assignments via [Canvas](https://canvas.uw.edu/courses/1353510)
+{: .fs-4 .fw-300 .text-grey-dk-000}
+
 *	Assignment 1:
 	* <a href="{{ site.baseurl }}/Files/Assignments/Assignment_1.pdf"><i class='fa fa-file-pdf-o'></i> Assignment_1</a>
 *	Assignment 2:
@@ -60,13 +68,16 @@ It's our pleasure to invite two UW alumni from INRIX to give us two guest lectur
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Exercise IV - R Shiny Part 4 - Connect to Database.pdf"><i class='fa fa-file-pdf-o'></i> Exercise IV - R Shiny Part 4 - Connect to Database </a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 4 - Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise Shiny IV Demo Source Code </a>
 *	Exercise 5:
-	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Exercise V - Part 1 - Deploy Shiny & RStudio Cloud.pdf"><i class='fa fa-file-pdf-o'></i> Exercise V - Part 1 - Deploy Shiny & RStudio Cloud </a>
+	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Exercise V - Part 1 - Deploy Shiny & RStudio Cloud.pdf"><i class='fa fa-file-pdf-o'></i> Exercise V - Advanced Shiny Part 1 - Deploy Shiny & RStudio Cloud </a>
+	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Exercise V - Part 2 - Advanced UI Shiny.pdf"><i class='fa fa-file-pdf-o'></i> Exercise V - Advanced Shiny Part 2 - Advanced UI </a>
 	* <a href="{{ site.baseurl }}/Files/Exercises/Exercise 5 - Advanced Shiny/Scripts.zip"><i class='fa fa-folder-open-o'></i> Exercise V Shiny Demo Source Code </a>
 
 ---
 
 ## Tutorials
 *	<a href="{{ site.baseurl }}/Files/Resources/Remote Access to Database.pdf"><i class='fa fa-file-text-o'></i> Remote Access to Class Database </a>
+*	<a href="{{ site.baseurl }}/Files/Resources/Making Video Presentation.pdf"><i class='fa fa-file-text-o'></i> Making Video Presentation </a>
+
 
 ---
 
