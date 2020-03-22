@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="right">
     <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions"><img src="https://github.com/pmarsceill/just-the-docs/workflows/CI/badge.svg" alt="Build status"></a>
 </p>
@@ -67,3 +68,8 @@ When the theme is released, only the files in `_layouts`, `_includes`, and `_sas
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 "# CEE412CET522" 
+||||||| merged common ancestors
+=======
+# CEE412CET522
+UW CEE412 / CET522 Transportation Data Management and Visualization
+>>>>>>> 2522d0a2f292869f6a5cb9722b9f1e0d3c50810b
