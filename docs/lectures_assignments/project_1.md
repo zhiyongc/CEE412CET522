@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Project 1
-parent: Projects
-nav_order: 1
+parent: Lectures & Assignments
+nav_order: 3
 nav_exclude: True
 ---
 
@@ -15,12 +15,16 @@ nav_exclude: True
 *	Learn how to apply the E/R diagram and the relational model for database design; and 
 *	Use the SQL Server to create and manage your database. 
 
+
+<!--
+
 ---
+
 ## Files and Data
 * <a href="{{ site.baseurl }}/Files/Projects/Project_1.pdf"><i class='fa fa-file-pdf-o'></i> Project 1 </a>
 * <a href="{{ site.baseurl }}/Files/Projects/P1_Dictionary.pdf"><i class='fa fa-file-pdf-o'></i> P1_Dictionary </a>
 * <a href="{{ site.baseurl }}/Files/Projects/P1_Data.xlsx"><i class='fa fa-table'></i> Data </a>
-
+-->
 
 ---
 
@@ -47,7 +51,7 @@ The database created in this project should be suitable for managing data over a
 
 ## Data
 
-Three data tables (Accident, Road, Vehicle) are provided in the data file (P1_Data.xlsx) for this project (available for download on Canvas), each table in a separate worksheet. All of them were from the true databases maintained by the Highway Safety Information System (HSIS) at the University of North Carolina. Here is a brief description about the three data tables: 
+Three data tables (Accident, Road, Vehicle) are provided in the data file ([P1_Data.xlsx](https://canvas.uw.edu/courses/1353510/files/folder/Projects/Project%201)) for this project (available for download on Canvas), each table in a separate worksheet. All of them were from the true databases maintained by the Highway Safety Information System (HSIS) at the University of North Carolina. Here is a brief description about the three data tables: 
 
 *	Accident: contains reported freeway accident data in Washington State in 2002. 
 *	Road: contains road geometry, lighting, AADT, and speed limit information for each roadway section of Washington freeways.

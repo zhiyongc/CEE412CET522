@@ -2,7 +2,7 @@
 layout: default
 title: Opportunities
 nav_order: 6
-nav_exclude: False
+nav_exclude: True
 ---
 
 # Opportunities

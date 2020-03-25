@@ -1,0 +1,40 @@
+install Gulp on Windows:
+	1. Install nodejs. https://nodejs.org/en/
+
+	2. Check npm (node package manager) is installed via command prompt:
+		$ npm
+		
+	3. Install gulp:
+		$ npm install gulp --global
+		
+	4. In relevant project folder, create 'gulpfile.js':
+
+		// build flow that copies MyNiceProgram.exe to another
+		// directory (with forced folder creation and overwrite)
+		var gulp = require('gulp');
+		var exefile = 'some/bin/path/MyNiceProgram.exe';
+		gulp.task('build', function(){
+			gulp.src(exefile).pipe(gulp.dest('../../Binaries/'));
+		});
+		gulp.task('default', ['build'], function(){
+			gulp.watch(exefile, ['build']);
+		});
+		
+		In this repo, change folder to the one contains gulpfile.js
+		
+	5. Run gulp:
+		$ gulp
+		
+
+Run gulp
+	1. add gulp dependencies into the package.json:
+		"devDependencies": {
+			"crypto-js": "^3.1.9-1",
+			"fs": "0.0.1-security",
+			"gulp": "^3.9.1",
+			"gulp-util": "^3.0.8",
+			"marked": "^0.3.19",
+			"through2": "^2.0.3"
+		  }
+	2. install packages: npm install --save-dev (node v10.x and gulp v3.x works for this jekyll firewall)
+	

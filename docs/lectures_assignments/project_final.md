@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Final Project
-parent: Projects
-nav_order: 2
+title: Project 2 (Final Project)
+parent: Lectures & Assignments
+nav_order: 4
 nav_exclude: True
 ---
 
@@ -16,11 +16,15 @@ nav_exclude: True
 2.	Learn how to design a Shiny application in R.
 3.	Learn basic tools and techniques for connecting your database to an interface. In other words, learn how to create a basic data pipeline.  
 
+<!--
+
 ---
 
 ## Files and Data
 * <a href="{{ site.baseurl }}/Files/Projects/Final Project.pdf"><i class='fa fa-file-pdf-o'></i> Final Project </a>
 * <a href="{{ site.baseurl }}/Files/Projects/Final Project Data.xlsx"><i class='fa fa-table'></i> Final Project Data </a>
+
+-->
 
 ---
 
