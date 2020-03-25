@@ -15,7 +15,7 @@ This year, the CEE412/CET522 class host a Shiny App Contest along with the final
 
 The final project is a team project and 13 teams are required to build Shiny Apps to support bicycle count data collection, analysis, and visualization. 
 
-**Three Winner Teams**:
+**Winning Teams**:
 
 * **Grand Prize**: **Team 06**
 	* Team Member: Hubert Chen, Meng-Ju Tsai, Pedram Etiehadolhagh, Tushar Lakhanpal
