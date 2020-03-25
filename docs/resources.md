@@ -79,7 +79,7 @@ Please submit your Assignments via [Canvas](https://canvas.uw.edu/courses/135351
 ---
 
 ## Tutorials
-*	<a href="{{ site.baseurl }}/Files/Resources/Remote Access to Database.pdf"><i class='fa fa-file-text-o'></i> Remote Access to Class Database </a>
+*	<a href="../../Files/Resources/Remote Access to Database.pdf"><i class='fa fa-file-text-o'></i> Remote Access to Class Database </a>
 *	<a href="{{ site.baseurl }}/Files/Resources/Making Video Presentation.pdf"><i class='fa fa-file-text-o'></i> Making Video Presentation </a>
 
 
@@ -123,7 +123,7 @@ The 2020 Shiny Contest runs from 29 January to 20 March 2020. Please check out t
 
 * Requirements
 	* Data and code used in the app should be publicly available and/or openly licensed.
-	* Your app should be [deployed on shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html).
+	* Your app should be deployed on [shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html).
 	* Your app should be in an [RStudio Cloud](https://rstudio.cloud/) project.
 * Criteria
 	* Just like last year, apps will be judged based on technical merit and/or on artistic achievement (e.g., UI design). We recognize that some apps may excel in one of these categories and some in the other, and some in both. Evaluation will be done keeping this in mind.

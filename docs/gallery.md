@@ -13,7 +13,9 @@ Shiny App Contest
 
 This year, the CEE412/CET522 class host a Shiny App Contest along with the final project, which is supported by RStudio Inc. 
 
-The final project is a team project and 13 teams are required to build Shiny Apps to support bicycle count data collection, analysis, and visualization. The contest has three winners:
+The final project is a team project and 13 teams are required to build Shiny Apps to support bicycle count data collection, analysis, and visualization. 
+
+**Three Winner Teams**:
 
 * **Grand Prize**: **Team 06**
 	* Team Member: Hubert Chen, Meng-Ju Tsai, Pedram Etiehadolhagh, Tushar Lakhanpal

@@ -89,7 +89,7 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/*.*')
+  return gulp.src('docs/_protected/*.*')
     .pipe(encrypt('Winter2020'))
     .pipe(gulp.dest('docs/lectures_assignments/'));
 });

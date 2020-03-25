@@ -61,31 +61,63 @@ Major topics of this course include: (1) database design and management; (2) dat
 
 --- 
 
+
 ## Course Schedule
 
 | Date             | Topic                                                              | Notes         | Assignments & Projects                               |
 |------------------|--------------------------------------------------------------------|---------------|------------------------------------------------------|
 | Jan. 8           | [Introduction and Course Overview](Files/Lectures/Lecture_1.pdf)   | Course Survey |                                                      |
-| Jan. 10          | [Excel Data Model Practice](Files/Lectures/Lecture_2.pdf)          | [Exercise #1](docs/resources/#exercises)   | [A#1](Files/Assignments/Assignment_1.pdf) Out         |
+| Jan. 10          | [Excel Data Model Practice](Files/Lectures/Lecture_2.pdf)          | [Exercise #1](docs/lectures_assignments/exercises_protected/)   | [A#1](docs/lectures_assignments/assignments_protected/) Out         |
 | Jan. 15          | No Class (TRB Meeting)                                             | TRB Week      |                                                      |
 | Jan. 17          | [Introduction to Databases](Files/Lectures/Lecture_3.pdf)          |               |                                                      |
-| Jan. 22          | [E/R Diagram](Files/Lectures/Lecture_4.pdf)                        |               | [A#2](Files/Assignments/Assignment_2.pdf) Out, A#1 Due |
+| Jan. 22          | [E/R Diagram](Files/Lectures/Lecture_4.pdf)                        |               | [A#2](docs/lectures_assignments/assignments_protected/) Out, A#1 Due |
 | Jan. 24          | [Relational Data Model](Files/Lectures/Lecture_4.pdf)              |               |                                                      |
 | Jan. 29          | [Structured Query Language (SQL) I](Files/Lectures/Lecture_5.pdf)  |               | [P#1](Files/Projects/Project_1.pdf) Out, A#2 Due       |
-| Jan. 31          | SQL Practice                                                       | [Exercise #2](docs/resources/#exercises)   |                                                      |
+| Jan. 31          | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected/)   |                                                      |
 | Feb. 5           | [Structured Query Language (SQL) II](Files/Lectures/Lecture_6.pdf) |               |                                                      |
-| Feb. 7           | SQL Practice                                                       | [Exercise #2](docs/resources/#exercises)   | [A#3](Files/Assignments/Assignment_3.pdf) Out         |
+| Feb. 7           | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected)   | [A#3](docs/lectures_assignments/assignments_protected/) Out         |
 | Feb. 12          | Midterm 1                                                          |               |                                                      |
 | Feb. 14          | [Advanced SQL & Introduction to R](Files/Lectures/Lecture_7.pdf)   |               | P#1 Due                                               |
 | Feb. 19          | [Transportation Data Analysis](Files/Lectures/Lecture_8.pdf)       |               |                                                      |
-| Feb. 21          | R Practice                                                         | [Exercise #3](docs/resources/#exercises)   | [A#4](Files/Assignments/Assignment_4.pdf) Out, A#3 Due |
+| Feb. 21          | R Practice                                                         | [Exercise #3](docs/lectures_assignments/exercises_protected/)   | [A#4](docs/lectures_assignments/assignments_protected/) Out, A#3 Due |
 | Feb. 26          | [Data Visualization](Files/Lectures/Lecture_9.pdf)                 |               | [P#2](Files/Projects/Final Project.pdf) Out           |
 | Feb. 28          | [Data Visualization in R & Shiny](Files/Lectures/Lecture_10.pdf)   |               |                                                      |
-| Mar. 4           | Data Visualization & Shiny Practice                                | [Exercise #4](docs/resources/#exercises)   | A#4 Due                                               |
+| Mar. 4           | Data Visualization & Shiny Practice                                | [Exercise #4](docs/lectures_assignments/exercises_protected/)   | A#4 Due                                               |
 | Mar. 6           | [Guest Lectures](docs/resources) - *Data Management & Visualization*  [GL#1](https://www.youtube.com/watch?v=I7fMtBg64iw&feature=youtu.be), [GL#2](https://youtu.be/ss3DZbMCI5I)           | Online Class  |        |
 | Mar. 11          | Midterm 2                                                          |               |                                                      |
-| Mar. 13          | Shiny Practice                                                     | [Exercise #5](docs/resources/#exercises)   |                                                      |
+| Mar. 13          | Shiny Practice                                                     | [Exercise #5](docs/lectures_assignments/exercises_protected/)   |                                                      |
 | Mar. 17          | Final Project Presentations (8:30-10:20 AM)                        |               | P#2 Due                                               |
+
+
+<!--
+
+
+| Date             | Topic                                                              | Notes         | Assignments & Projects                               |
+|------------------|--------------------------------------------------------------------|---------------|------------------------------------------------------|
+| Jan. 8           | [Introduction and Course Overview](Files/Lectures/Lecture_1.pdf)   | Course Survey |                                                      |
+| Jan. 10          | [Excel Data Model Practice]          | [Exercise #1](docs/lectures_assignments/exercises_protected/)   | [A#1](docs/lectures_assignments/assignments_protected/) Out         |
+| Jan. 15          | No Class (TRB Meeting)                                             | TRB Week      |                                                      |
+| Jan. 17          | [Introduction to Databases]          |               |                                                      |
+| Jan. 22          | [E/R Diagram]                        |               | [A#2](docs/lectures_assignments/assignments_protected/) Out, A#1 Due |
+| Jan. 24          | [Relational Data Model]              |               |                                                      |
+| Jan. 29          | [Structured Query Language (SQL) I]  |               | [P#1](Files/Projects/Project_1.pdf) Out, A#2 Due       |
+| Jan. 31          | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected/)   |                                                      |
+| Feb. 5           | [Structured Query Language (SQL) II] |               |                                                      |
+| Feb. 7           | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected)   | [A#3](docs/lectures_assignments/assignments_protected/) Out         |
+| Feb. 12          | Midterm 1                                                          |               |                                                      |
+| Feb. 14          | [Advanced SQL & Introduction to R]   |               | P#1 Due                                               |
+| Feb. 19          | [Transportation Data Analysis]       |               |                                                      |
+| Feb. 21          | R Practice                                                         | [Exercise #3](docs/lectures_assignments/exercises_protected/)   | [A#4](docs/lectures_assignments/assignments_protected/) Out, A#3 Due |
+| Feb. 26          | [Data Visualization]                 |               | [P#2](Files/Projects/Final Project.pdf) Out           |
+| Feb. 28          | [Data Visualization in R & Shiny]   |               |                                                      |
+| Mar. 4           | Data Visualization & Shiny Practice                                | [Exercise #4](docs/lectures_assignments/exercises_protected/)   | A#4 Due                                               |
+| Mar. 6           | [Guest Lectures](docs/resources) - *Data Management & Visualization*  [GL#1](https://www.youtube.com/watch?v=I7fMtBg64iw&feature=youtu.be), [GL#2](https://youtu.be/ss3DZbMCI5I)           | Online Class  |        |
+| Mar. 11          | Midterm 2                                                          |               |                                                      |
+| Mar. 13          | Shiny Practice                                                     | [Exercise #5](docs/lectures_assignments/exercises_protected/)   |                                                      |
+| Mar. 17          | Final Project Presentations (8:30-10:20 AM)                        |               | P#2 Due   
+
+
+-->
 
 `A#n` – assignment number `n`; `P#m` – project number `m`. `GL#i` – guest lecture `i`
 
