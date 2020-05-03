@@ -38,3 +38,4 @@ Run gulp
 		  }
 	2. install packages: npm install --save-dev (node v10.x and gulp v3.x works for this jekyll firewall)
 	
+The jekyll password protect functions comes from: https://github.com/lilykonings/jekyll-password-protect

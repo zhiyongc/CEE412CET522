@@ -1,7 +1,7 @@
 ---
 layout: encrypted
 title: Exercises
-parent: Lectures & Assignments
+parent: Exercises & Assignments
 nav_order: 1
 nav_exclude: True
 ---

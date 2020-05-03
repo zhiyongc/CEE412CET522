@@ -1,7 +1,7 @@
 ---
 layout: encrypted
 title: Assignments
-parent: Lectures & Assignments
+parent: Exercises & Assignments
 nav_order: 2
 nav_exclude: True
 ---

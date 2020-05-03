@@ -72,7 +72,7 @@ Major topics of this course include: (1) database design and management; (2) dat
 | Jan. 17          | [Introduction to Databases](Files/Lectures/Lecture_3.pdf)          |               |                                                      |
 | Jan. 22          | [E/R Diagram](Files/Lectures/Lecture_4.pdf)                        |               | [A#2](docs/lectures_assignments/assignments_protected/) Out, A#1 Due |
 | Jan. 24          | [Relational Data Model](Files/Lectures/Lecture_4.pdf)              |               |                                                      |
-| Jan. 29          | [Structured Query Language (SQL) I](Files/Lectures/Lecture_5.pdf)  |               | [P#1](Files/Projects/Project_1.pdf) Out, A#2 Due       |
+| Jan. 29          | [Structured Query Language (SQL) I](Files/Lectures/Lecture_5.pdf)  |               | [P#1](docs/lectures_assignments/project_1/) Out, A#2 Due       |
 | Jan. 31          | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected/)   |                                                      |
 | Feb. 5           | [Structured Query Language (SQL) II](Files/Lectures/Lecture_6.pdf) |               |                                                      |
 | Feb. 7           | SQL Practice                                                       | [Exercise #2](docs/lectures_assignments/exercises_protected)   | [A#3](docs/lectures_assignments/assignments_protected/) Out         |
@@ -80,7 +80,7 @@ Major topics of this course include: (1) database design and management; (2) dat
 | Feb. 14          | [Advanced SQL & Introduction to R](Files/Lectures/Lecture_7.pdf)   |               | P#1 Due                                               |
 | Feb. 19          | [Transportation Data Analysis](Files/Lectures/Lecture_8.pdf)       |               |                                                      |
 | Feb. 21          | R Practice                                                         | [Exercise #3](docs/lectures_assignments/exercises_protected/)   | [A#4](docs/lectures_assignments/assignments_protected/) Out, A#3 Due |
-| Feb. 26          | [Data Visualization](Files/Lectures/Lecture_9.pdf)                 |               | [P#2](Files/Projects/Final Project.pdf) Out           |
+| Feb. 26          | [Data Visualization](Files/Lectures/Lecture_9.pdf)                 |               | [P#2](docs/lectures_assignments/project_final/) Out           |
 | Feb. 28          | [Data Visualization in R & Shiny](Files/Lectures/Lecture_10.pdf)   |               |                                                      |
 | Mar. 4           | Data Visualization & Shiny Practice                                | [Exercise #4](docs/lectures_assignments/exercises_protected/)   | A#4 Due                                               |
 | Mar. 6           | [Guest Lectures](docs/resources) - *Data Management & Visualization*  [GL#1](https://www.youtube.com/watch?v=I7fMtBg64iw&feature=youtu.be), [GL#2](https://youtu.be/ss3DZbMCI5I)           | Online Class  |        |

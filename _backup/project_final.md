@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project 2 (Final Project)
-parent: Exercises & Assignments
+parent: Lectures & Assignments
 nav_order: 4
 nav_exclude: True
 ---
