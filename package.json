@@ -1,26 +1,33 @@
 {
   "name": "just-the-docs",
-  "version": "0.2.7",
+  "version": "0.3.1",
   "description": "A modern Jekyll theme for documentation",
   "repository": "pmarsceill/just-the-docs",
   "license": "MIT",
   "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
   "devDependencies": {
-    "stylelint": "^10.0.1",
-    "stylelint-config-primer": "^8.0.0",
     "stylelint-selector-no-utility": "^4.0.0",
     "crypto-js": "^3.1.9-1",
     "fs": "0.0.1-security",
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.8",
     "marked": "^0.3.19",
-    "through2": "^2.0.3"
+    "through2": "^2.0.3",
+    "@primer/css": "^14.4.0",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.6.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-primer": "^9.0.0",
+    "stylelint-prettier": "^1.1.2"
   },
   "dependencies": {
     "@primer/css": "^12.7.0",
     "gulp": "^3.9.1"
   },
   "scripts": {
-    "test": "stylelint '**/*.scss'"
-  }
+    "test": "stylelint '**/*.scss'",
+    "format": "prettier --write '**/*.{scss,js,json}'",
+    "stylelint-check": "stylelint-config-prettier-check"
+  },
+  "dependencies": {}
 }
